@@ -1,0 +1,47 @@
+@import "styles/header.css";
+@import "styles/section-a.css";
+@import "styles/section-b.css";
+
+
+
+@font-face{
+    font-family: nyt;
+    src: url(fonts/cheltenham-italic-200.ttf);
+}
+
+header{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 1000;
+    font-size: 0.8rem;
+}
+
+main{
+    font-family: nyt;
+}
+html {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.btn-blue {
+    background-color: #437eac;
+    color: white;
+    border: 1px solid black;
+    border-radius: 2px;
+    height: 28px;
+}
+.btn-blue:hover{
+    background-color: #37688d;
+}
+
+
+
+
+
+
+
+
+
+

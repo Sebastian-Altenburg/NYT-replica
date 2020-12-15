@@ -1,0 +1,43 @@
+.header-top {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 40px;
+
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 40px;
+
+    background-color: aquamarine;
+}
+
+
+.header-left {
+    list-style-type: none;
+    justify-self: center;
+    align-self: center;
+}
+.header-left li {
+    float: left;
+}
+.header-left a {
+    text-decoration: none;
+    color: black;
+    
+}
+.header-left img {height: 1rem;}
+
+
+
+.header-center-img {
+    height: 2rem;
+    justify-self: center;
+    align-self: center;
+}
+
+
+.header-right {
+    justify-self: center;
+    align-self: center;
+}

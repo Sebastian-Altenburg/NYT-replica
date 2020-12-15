@@ -1,0 +1,24 @@
+.section-b {
+    clear: left;
+}
+
+.section-b {
+    width: 80%;
+    margin: 0 auto;
+}
+.section-b img {
+    margin: 0 auto;
+    display: block;
+    width: 68%;
+}
+.section-b div {
+    width: 68%;
+    margin: 0 auto;
+    color: rgb(77, 77, 77);
+    margin-top: -8px;
+}
+.section-b span {
+    font-size: 0.8em;
+    color: rgb(116, 116, 116);
+    
+}

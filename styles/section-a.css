@@ -1,0 +1,28 @@
+main {
+    margin-top: 125px;
+}
+
+
+.section-a {
+    width: 30%;
+    margin: 80px auto;
+    
+}
+.section-a ul {
+    list-style-type: none;
+    padding-inline-start: 0px;
+    
+}
+.section-a  li{
+    float: left;
+    margin-right: 20px;
+}
+.section-a h1 {
+    font-size: 2.2rem;
+    line-height: 3rem;
+    border-bottom: 1px solid black;
+    padding-bottom: 15px;
+}
+
+
+
