@@ -1,0 +1,21 @@
+.section-d {
+    width: 800px;
+    margin: 0 auto;
+    
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: 1fr 1fr;
+    font-size: 0.9em;
+    grid-gap: 1em;
+}
+.section-d img {
+    width: 90%;
+    height: 32%;
+}
+.section-d span {
+    font-weight: bold;
+    font-size: 0.85em;
+}

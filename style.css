@@ -1,12 +1,25 @@
 @import "styles/header.css";
 @import "styles/section-a.css";
 @import "styles/section-b.css";
+@import "styles/section-c.css";
+@import "styles/section-d.css";
+@import "styles/section-e.css";
+@import "styles/section-f.css";
+@import "styles/section-g.css";
+@import "styles/section-h.css";
+@import "styles/section-i.css";
+@import "styles/nav.css";
+@import "styles/footer.css";
 
 
 
 @font-face{
-    font-family: nyt;
-    src: url(fonts/cheltenham-italic-200.ttf);
+    font-family: nyt-normal;
+    src: url(fonts/cheltenham-normal-300.ttf);
+}
+@font-face{
+    font-family: nyt300;
+    src: url(fonts/cheltenham-italic-300.ttf);
 }
 
 header{
@@ -16,12 +29,15 @@ header{
 }
 
 main{
-    font-family: nyt;
+    font-family: nyt-normal;
 }
 html {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+}
+.section-a {
+    font-family: nyt300;
 }
 
 

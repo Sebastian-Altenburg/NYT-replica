@@ -3,19 +3,20 @@
 }
 
 .section-b {
-    width: 80%;
+    width: 100%;
     margin: 0 auto;
 }
 .section-b img {
     margin: 0 auto;
     display: block;
-    width: 68%;
+    width: 55%;
 }
 .section-b div {
-    width: 68%;
+    width: 55%;
     margin: 0 auto;
     color: rgb(77, 77, 77);
     margin-top: -8px;
+    margin-bottom: 40px;
 }
 .section-b span {
     font-size: 0.8em;

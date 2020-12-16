@@ -1,0 +1,26 @@
+.section-e {
+    width: 480px;
+    margin: 0 auto;
+    font-weight: 500;
+    margin-bottom: 50px;
+    font-size: 1.08em;
+}
+.section-e div {
+    margin: 0 auto;
+    font-size: 0.8em;
+    
+}
+.section-e div p{
+    float: left;
+}
+.section-e div button{
+    float: left;
+    margin: 18px;
+}
+.section-e .div-signUp {
+    border-top: 1px solid black;
+}
+
+.clear-btn {
+    clear: left;
+}

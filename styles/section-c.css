@@ -1,0 +1,30 @@
+.section-c {
+    width: 480px;
+    margin: 0 auto;
+    font-weight: 500;
+    margin-bottom: 50px;
+}
+.section-c h4 {
+    font-size: 0.8em;
+}
+.section-c h5 {
+    font-size: 0.7em;
+    color: rgb(65, 65, 65);
+}
+.section-c p {
+    font-size: 1.08em;
+}
+.section-c div {
+    text-align: center;
+    font-weight: bold;
+    font-size: 0.8em;
+    margin: 40px 0;
+    padding: 15px;
+
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+}
+.section-c div a {
+    text-decoration: none;
+    color: #37688d;
+}

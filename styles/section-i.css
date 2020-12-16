@@ -1,0 +1,28 @@
+.section-i {
+    width: 480px;
+    margin: 0 auto;
+    font-weight: 500;
+    margin-bottom: 50px;
+    font-size: 1.08em;
+}
+.end-content-small {
+    font-size: 0.6em;
+}
+.end-content-small a {
+    color: black;
+}
+
+.section-i div {
+    margin: 20px 0px;
+    
+}
+.section-i div > img {
+    float: right;
+    margin-left: 20px;
+}
+.section-i .btn-blue {
+    width: 55%;
+    font-size: 0.6em;
+    font-weight: 700;
+
+}
