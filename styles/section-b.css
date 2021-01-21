@@ -3,17 +3,18 @@
 }
 
 .section-b {
-    width: 100%;
+    /* width: 100%; */
+    width: 55%;
     margin: 0 auto;
 }
 .section-b img {
     margin: 0 auto;
     display: block;
-    width: 55%;
+    /* width: 55%; */
+    width: 100%;
 }
 .section-b div {
-    width: 55%;
-    margin: 0 auto;
+    width: 80%;
     color: rgb(77, 77, 77);
     margin-top: -8px;
     margin-bottom: 40px;
@@ -21,5 +22,27 @@
 .section-b span {
     font-size: 0.8em;
     color: rgb(116, 116, 116);
+    
+}
+
+@media (max-width: 1000px) {
+
+    .section-b {
+        width: 100%;
+    }
+    .section-b div {
+        margin: 0 auto;
+        width: 100%;
+    }
+
+    
+}
+
+
+@media (min-width: 1000px) {
+
+    .section-b {
+        min-width: 1000px;
+    }
     
 }

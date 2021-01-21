@@ -1,0 +1,25 @@
+.btn-blue {
+    background-color: #437eac;
+    color: white;
+    border: 1px solid black;
+    border-radius: 2px;
+    height: 28px;
+}
+.btn-blue:hover{
+    background-color: #37688d;
+}
+
+
+
+.btnSmall-1, .btnSmall-2 {
+    background-color: #437eac;
+    color: white;
+    border: 1px solid black;
+    border-radius: 2px;
+    height: 28px;
+}
+.btnSmall-1, .btnSmall-2:hover{
+    background-color: #37688d;
+}
+
+

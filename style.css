@@ -10,6 +10,7 @@
 @import "styles/section-i.css";
 @import "styles/nav.css";
 @import "styles/footer.css";
+@import "styles/buttons.css";
 
 
 
@@ -39,19 +40,6 @@ html {
 .section-a {
     font-family: nyt300;
 }
-
-
-.btn-blue {
-    background-color: #437eac;
-    color: white;
-    border: 1px solid black;
-    border-radius: 2px;
-    height: 28px;
-}
-.btn-blue:hover{
-    background-color: #37688d;
-}
-
 
 
 
