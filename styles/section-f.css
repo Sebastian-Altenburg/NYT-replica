@@ -1,13 +1,17 @@
 .section-f {
-    width: 620px;
+    width: 100%;
+    max-width: 620px;
+    height: calc(620px * 0.5625);
+    
     margin: 0 auto;
-    font-weight: 500;
     margin-bottom: 50px;
+    
+    font-weight: 500;
     font-size: 1.08em;
 }
 .section-f iframe {
     width: 100%;
-    height: 400px;
+    height: 100%;
 }
 .section-f p {
     font-size: 0.8em;
