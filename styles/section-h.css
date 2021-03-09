@@ -1,5 +1,6 @@
 .section-h {
-    width: 620px;
+    width: 100%;
+    max-width: 620px;
     margin: 0 auto;
     font-weight: 500;
     margin-bottom: 80px;
